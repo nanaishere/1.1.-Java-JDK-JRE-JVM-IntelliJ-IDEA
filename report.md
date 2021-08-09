@@ -16,7 +16,7 @@
 В качестве тестовых данных использовались данные https://www.getcreditcardnumbers.com/:
 * mastercard 5177928889653224 Result is Ok  
 * visa 4541411089345398 Result is OK
-* american express  370767172925675 Result is OK 
+* american express  3707671729256756 Result is FAIl 
 * discover 6011083575941398 Result is OK  
 
 Тестирование производилось в следующем окружении:
