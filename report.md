@@ -7,7 +7,7 @@
 На тестирование затрачено: 3 часа 
 
 В результате тестирования выявлены следующие дефекты:
- * При попытке ввести 16значный банковский номер Result is FAIL
+ * При попытке ввести 15значный банковский номер Result is FAIL
  https://github.com/nanaishere/1.1.-Java-JDK-JRE-JVM-IntelliJ-IDEA/issues/1
 
 
@@ -16,7 +16,7 @@
 В качестве тестовых данных использовались данные https://www.getcreditcardnumbers.com/:
 * mastercard 5177928889653224 Result is Ok  
 * visa 4541411089345398 Result is OK
-* american express  3707671729256756 Result is FAIl 
+* american express  374911835935871 Result is FAIl 
 * discover 6011083575941398 Result is OK  
 
 Тестирование производилось в следующем окружении:
