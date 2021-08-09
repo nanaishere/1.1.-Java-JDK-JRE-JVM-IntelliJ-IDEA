@@ -3,7 +3,7 @@ import java.security.spec.RSAOtherPrimeInfo;
 public class main {
     public static void main(String[] args) {
         // TODO: подставлять номер карты нужно сюда между двойными кавычками, без пробелов
-        String number = "6011083575941398";
+        String number = "370767172925675";
         System.out.println(String.format("Result is %s", isValidCardNumber(number) ? "OK" : "FAIL"));
     }
 
