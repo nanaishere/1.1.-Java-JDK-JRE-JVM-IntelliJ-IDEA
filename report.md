@@ -7,8 +7,8 @@
 На тестирование затрачено: 3 часа 
 
 В результате тестирования выявлены следующие дефекты:
- * issue
- https://github.com/nanaishere/1.1.-Java-JDK-JRE-JVM-IntelliJ-IDEA/issues/1
+ *   
+[При попытке ввести 15значный банковский номер Result is FAIL](https://github.com/nanaishere/1.1.-Java-JDK-JRE-JVM-IntelliJ-IDEA/issues)
 
 
 ## Описание процесса тестирования
